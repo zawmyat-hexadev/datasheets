@@ -1,0 +1,36 @@
+1
+00:00:00,50 --> 00:00:12,40
+If you've worked with JavaScript before, You might think of it as a front end technology to add features like button clicks and drop downs to web applications. But that's not all JavaScript can do.
+
+2
+00:00:12,40 --> 00:00:15,90
+With Node.js we can use our JavaScript skills even more.
+
+3
+00:00:15,90 --> 00:00:21,20
+From building command line tools to creating servers to interact with file systems, you can do everything with Node.js.
+
+4
+00:00:21,20 --> 00:00:23,40
+Since Node.js was released in 2009,
+
+5
+00:00:23,40 --> 00:00:29,70
+PayPal Companies like Netflix and Microsoft have used Node.js to build scalable, event-driven applications.
+
+6
+00:00:29,70 --> 00:00:36,00
+My name is Alex Banks. I've been teaching Node.js to engineers for eight years, and I use Node.js almost every day in my own projects.
+
+7
+00:00:36,00 --> 00:00:38,00
+Node.js is everywhere these days.
+
+8
+00:00:38,00 --> 00:00:42,70
+Now is the perfect time to become a full stack JavaScript developer with Node.js.
+
+9
+00:00:42,70 --> 00:00:44,00
+let's go.
+
