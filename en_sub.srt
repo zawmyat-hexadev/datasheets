@@ -1,36 +1,37 @@
 1
 00:00:00,50 --> 00:00:12,40
-If you've worked with JavaScript before, You might think of it as a front end technology to add features like button clicks and drop downs to web applications. But that's not all JavaScript can do.
+“ဓားတောင်” တွင်အဓိက ဇာတ်ဆောင် လေးဦးသာ ပါပါသည်။ 
 
 2
 00:00:12,40 --> 00:00:15,90
-With Node.js we can use our JavaScript skills even more.
+ဇာတ်ဆောင် လေးဦးတို့ အနက် တစ်ဦးမှာ အလုပ်သမားသံချောင်း၊ နောက်တစ်ဦးမှာ အိမ်ပြေး ရဲမြင့်၊ နောက်တစ်ဦးမှာ ကဗျာဆရာ ယောင်ယောင် ဘာယောင်ယောင်ဖြင့် အလုပ်လက်မဲ့ဖြစ်နေသော ပညာတတ် ကိုနန္ဒာနှင့် မှောင်ခို စက်လှေ ပိုင်ရှင် ဦးဘရန်တို့ဖြစ်ပါသည်။
 
 3
 00:00:15,90 --> 00:00:21,20
-From building command line tools to creating servers to interact with file systems, you can do everything with Node.js.
+သူတို့လေးဦးသည် သင်္ဘောပျက်ပြီး ကျွန်းကလေး တစ်ကျွန်းပေါ်သို့ ရောက်သွားသည့်အခါတွင် လူ့အဖွဲ့အစည်းကလေးတစ်ခုကို ထူထောင်ခဲ့ကြပါသည်။ သံချောင်းတို့သည်လက်တွေ့ကျသူ ဖြစ်ပါသည်။ 
 
 4
 00:00:21,20 --> 00:00:23,40
-Since Node.js was released in 2009,
+ဘ၀အခက်အခဲတို့ကို ရင်ဆိုင်ရဲသူဖြစ်ပါသည်။ ကိုနန္ဒာသည် စာတွေ့ကို သိထားသူဖြစ်ပါသည်။ ရဲမြင့်သည် လမ်းမှားသို့ရောက်နေရာမှ သံချောင်းကိုကြည့်ပြီး လမ်းမှန်သို့ ရောက်သွားသူဖြစ်ပါသည်။ ဦးဘရန်သည် ရောက်လေရာရာတွင် ကိုယ်ကျိုး ကြည့်သူ ဖြစ်ပါသည်။
 
 5
 00:00:23,40 --> 00:00:29,70
-PayPal Companies like Netflix and Microsoft have used Node.js to build scalable, event-driven applications.
+ ဦးဘရန်သည် ရောက်လေရာရာတွင် ကိုယ်ကျိုး ကြည့်သူ ဖြစ်ပါသည်။
+
 
 6
 00:00:29,70 --> 00:00:36,00
-My name is Alex Banks. I've been teaching Node.js to engineers for eight years, and I use Node.js almost every day in my own projects.
+“ဓားတောင်” ၀တ္ထုသည် သူတို့လေးဦး၏ ဆက်ဆံရေး၊ သူတို့လေးဦး၏ ပဋိပက္ခ၊ ထိုပဋိပက္ခများကို သူတို့မည်သို့ဖြေရှင်းပုံ စသည်တို့ကို ရေထားခြင်း ဖြစ်ပါသည်။
 
 7
 00:00:36,00 --> 00:00:38,00
-Node.js is everywhere these days.
+သံချောင်းသည် ကိုယ်ကျိုးစွန့်သူ ၊ အနစ်နာခံသူ၊ လက်တွေ့ကျသူ၊ ပညာ မတတ်သော်လည်း ပညာတတ်တို့ထံမှ
 
 8
 00:00:38,00 --> 00:00:42,70
-Now is the perfect time to become a full stack JavaScript developer with Node.js.
+အသိအမြင် အတွေးအခေါ်တို့ကို တစ်ဆင့် သိရသည်နှင့် ချက်ချင်း လက်တွေ့ အကောင်အထည်ဖော်ကာ
 
 9
 00:00:42,70 --> 00:00:44,00
-let's go.
+ဘ၀အခက်အဲကို ဖြေရှင်းသွားသူအဖြစ် စာရေးသူကတင်ပြထားပါသည်။
 
