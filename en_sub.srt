@@ -1,37 +1,311 @@
 1
-00:00:00,50 --> 00:00:12,40
-“ဓားတောင်” တွင်အဓိက ဇာတ်ဆောင် လေးဦးသာ ပါပါသည်။ 
+00:00:00,60 --> 00:00:01,70
+“ဓားတောင်” တွင်အဓိက ဇာတ်ဆောင် လေးဦးသာ ပါပါသည်။
 
 2
-00:00:12,40 --> 00:00:15,90
-ဇာတ်ဆောင် လေးဦးတို့ အနက် တစ်ဦးမှာ အလုပ်သမားသံချောင်း၊ နောက်တစ်ဦးမှာ အိမ်ပြေး ရဲမြင့်၊ နောက်တစ်ဦးမှာ ကဗျာဆရာ ယောင်ယောင် ဘာယောင်ယောင်ဖြင့် အလုပ်လက်မဲ့ဖြစ်နေသော ပညာတတ် ကိုနန္ဒာနှင့် မှောင်ခို စက်လှေ ပိုင်ရှင် ဦးဘရန်တို့ဖြစ်ပါသည်။
+00:00:01,70 --> 00:00:04,10
+ဇာတ်ဆောင် လေးဦးတို့ အနက် တစ်ဦးမှာ အလုပ်သမားသံချောင်း၊ 
 
 3
-00:00:15,90 --> 00:00:21,20
-သူတို့လေးဦးသည် သင်္ဘောပျက်ပြီး ကျွန်းကလေး တစ်ကျွန်းပေါ်သို့ ရောက်သွားသည့်အခါတွင် လူ့အဖွဲ့အစည်းကလေးတစ်ခုကို ထူထောင်ခဲ့ကြပါသည်။ သံချောင်းတို့သည်လက်တွေ့ကျသူ ဖြစ်ပါသည်။ 
+00:00:04,10 --> 00:00:07,90
+နောက်တစ်ဦးမှာ အိမ်ပြေး ရဲမြင့်၊ 
 
 4
-00:00:21,20 --> 00:00:23,40
-ဘ၀အခက်အခဲတို့ကို ရင်ဆိုင်ရဲသူဖြစ်ပါသည်။ ကိုနန္ဒာသည် စာတွေ့ကို သိထားသူဖြစ်ပါသည်။ ရဲမြင့်သည် လမ်းမှားသို့ရောက်နေရာမှ သံချောင်းကိုကြည့်ပြီး လမ်းမှန်သို့ ရောက်သွားသူဖြစ်ပါသည်။ ဦးဘရန်သည် ရောက်လေရာရာတွင် ကိုယ်ကျိုး ကြည့်သူ ဖြစ်ပါသည်။
+00:00:07,90 --> 00:00:09,50
+နောက်တစ်ဦးမှာ ကဗျာဆရာ ယောင်ယောင်
 
 5
-00:00:23,40 --> 00:00:29,70
- ဦးဘရန်သည် ရောက်လေရာရာတွင် ကိုယ်ကျိုး ကြည့်သူ ဖြစ်ပါသည်။
-
+00:00:09,50 --> 00:00:11,50
+ဘာယောင်ယောင်ဖြင့် အလုပ်လက်မဲ့ဖြစ်နေသော ပညာတတ် ကိုနန္ဒာ
 
 6
-00:00:29,70 --> 00:00:36,00
-“ဓားတောင်” ၀တ္ထုသည် သူတို့လေးဦး၏ ဆက်ဆံရေး၊ သူတို့လေးဦး၏ ပဋိပက္ခ၊ ထိုပဋိပက္ခများကို သူတို့မည်သို့ဖြေရှင်းပုံ စသည်တို့ကို ရေထားခြင်း ဖြစ်ပါသည်။
+00:00:11,50 --> 00:00:13,90
+မှောင်ခို စက်လှေ ပိုင်ရှင် ဦးဘရန်တို့ဖြစ်ပါသည်
 
 7
-00:00:36,00 --> 00:00:38,00
-သံချောင်းသည် ကိုယ်ကျိုးစွန့်သူ ၊ အနစ်နာခံသူ၊ လက်တွေ့ကျသူ၊ ပညာ မတတ်သော်လည်း ပညာတတ်တို့ထံမှ
+00:00:13,90 --> 00:00:16,00
+သူတို့လေးဦးသည် သင်္ဘောပျက်ပြီး ကျွန်းကလေး တစ်ကျွန်းပေါ်သို့
 
 8
-00:00:38,00 --> 00:00:42,70
-အသိအမြင် အတွေးအခေါ်တို့ကို တစ်ဆင့် သိရသည်နှင့် ချက်ချင်း လက်တွေ့ အကောင်အထည်ဖော်ကာ
+00:00:16,00 --> 00:00:18,20
+ရောက်သွားသည့်အခါတွင် လူ့အဖွဲ့အစည်းကလေးတစ်ခုကို ထူထောင်ခဲ့ကြပါသည်
 
 9
-00:00:42,70 --> 00:00:44,00
-ဘ၀အခက်အဲကို ဖြေရှင်းသွားသူအဖြစ် စာရေးသူကတင်ပြထားပါသည်။
+00:00:18,20 --> 00:00:21,90
+သံချောင်းတို့သည်လက်တွေ့ကျသူ ဖြစ်ပါသည်
 
+10
+00:00:21,90 --> 00:00:25,00
+ဘ၀အခက်အခဲတို့ကို ရင်ဆိုင်ရဲသူဖြစ်ပါသည်။ 
+
+11
+00:00:25,00 --> 00:00:26,50
+ကိုနန္ဒာသည် စာတွေ့ကို သိထားသူဖြစ်ပါသည်
+
+12
+00:00:26,50 --> 00:00:28,80
+ရဲမြင့်သည် လမ်းမှားသို့ရောက်နေရာမှ သံချောင်းကိုကြည့်ပြီး
+
+13
+00:00:28,80 --> 00:00:30,40
+ဦးဘရန်သည် ရောက်လေရာရာတွင် ကိုယ်ကျိုး ကြည့်သူ 
+
+14
+00:00:30,40 --> 00:00:32,60
+နောက်တစ်ဦးမှာ ကဗျာဆရာ ယောင်ယောင်
+
+15
+00:00:32,60 --> 00:00:34,80
+ကိုနန္ဒာသည် စာတွေ့ကို သိထားသူဖြစ်ပါသည်
+
+16
+00:00:34,80 --> 00:00:37,90
+သံချောင်းတို့သည်လက်တွေ့ကျသူ ဖြစ်ပါသည်
+
+17
+00:00:37,90 --> 00:00:40,80
+နောက်တစ်ဦးမှာ ကဗျာဆရာ ယောင်ယောင်
+
+18
+00:00:40,80 --> 00:00:44,00
+“ဓားတောင်” တွင်အဓိက ဇာတ်ဆောင် လေးဦးသာ ပါပါသည်။
+
+19
+00:00:44,00 --> 00:00:48,00
+And Y is a dependency of class X.
+
+20
+00:00:48,00 --> 00:00:50,40
+Class X may have many dependencies,
+
+21
+00:00:50,40 --> 00:00:53,80
+and class Y may also have many dependencies.
+
+22
+00:00:53,80 --> 00:00:55,90
+This is desirable, as it allows
+
+23
+00:00:55,90 --> 00:00:57,80
+functionality to be reused throughout
+
+24
+00:00:57,80 --> 00:01:01,70
+the application. without duplicating code.
+
+25
+00:01:01,70 --> 00:01:05,00
+Classes that use other classes are said to be coupled.
+
+26
+00:01:05,00 --> 00:01:06,80
+And these dependencies can be
+
+27
+00:01:06,80 --> 00:01:09,70
+either loosely or tightly coupled.
+
+28
+00:01:09,70 --> 00:01:11,00
+Let's have a look at some code
+
+29
+00:01:11,00 --> 00:01:14,70
+that demonstrates tighty coupled classes.
+
+30
+00:01:14,70 --> 00:01:17,80
+Here are two classes, the product service class,
+
+31
+00:01:17,80 --> 00:01:21,00
+the generation EAN 13 barcode for a product.
+
+32
+00:01:21,00 --> 00:01:24,60
+This class depends on the EAN 13 barcode class.
+
+33
+00:01:24,60 --> 00:01:27,10
+Now when a product service class is created,
+
+34
+00:01:27,10 --> 00:01:29,30
+the constructor must be passed an instance
+
+35
+00:01:29,30 --> 00:01:32,00
+of the EAN 13 barcode class,
+
+36
+00:01:32,00 --> 00:01:35,90
+and only the EAN 13 barcode class can be passed.
+
+37
+00:01:35,90 --> 00:01:39,80
+The product service is dependent on this barcode class.
+
+38
+00:01:39,80 --> 00:01:42,60
+This is an example of a tightly coupled class.
+
+39
+00:01:42,60 --> 00:01:45,10
+As no other class, other than this specific
+
+40
+00:01:45,10 --> 00:01:50,00
+EAN 13 barcode class can be used to create a product.
+
+41
+00:01:50,00 --> 00:01:53,40
+It is said that the product service class is tightly coupled
+
+42
+00:01:53,40 --> 00:01:56,20
+to the EAN 13 barcode class.
+
+43
+00:01:56,20 --> 00:01:59,00
+This is considered undesirable, as it means
+
+44
+00:01:59,00 --> 00:02:01,20
+the only barcode that the product service
+
+45
+00:02:01,20 --> 00:02:05,70
+can generate for a product is type EAN 13.
+
+46
+00:02:05,70 --> 00:02:08,40
+So, what if later on we need to generate
+
+47
+00:02:08,40 --> 00:02:12,10
+an EAN 8 or an EAN 5 barcode
+
+48
+00:02:12,10 --> 00:02:17,00
+or some other type of barcode. This design, we cannot.
+
+49
+00:02:17,00 --> 00:02:19,80
+Tightly coupled classes reduce code reuse.
+
+50
+00:02:19,80 --> 00:02:21,10
+Which is an important tenant
+
+51
+00:02:21,10 --> 00:02:23,20
+of object orientated programming.
+
+52
+00:02:23,20 --> 00:02:27,50
+And aides development, code readability, and code standards.
+
+53
+00:02:27,50 --> 00:02:29,50
+As developers, we should strive for
+
+54
+00:02:29,50 --> 00:02:32,40
+loosely coupled designs between objects.
+
+55
+00:02:32,40 --> 00:02:33,90
+So what does a loosely coupled
+
+56
+00:02:33,90 --> 00:02:36,20
+relationship between classes look like.
+
+57
+00:02:36,20 --> 00:02:39,70
+A way to loosen coupling is via interfaces.
+
+58
+00:02:39,70 --> 00:02:42,20
+So the product service class could be made to depend
+
+59
+00:02:42,20 --> 00:02:44,30
+on the code generator interface, rather than
+
+60
+00:02:44,30 --> 00:02:48,20
+the concrete EAN 13 barcode class.
+
+61
+00:02:48,20 --> 00:02:51,10
+Let's have a look at this in code.
+
+62
+00:02:51,10 --> 00:02:53,00
+As you can see the product service is dependent
+
+63
+00:02:53,00 --> 00:02:55,40
+on the code generator interface.
+
+64
+00:02:55,40 --> 00:02:59,50
+And we have three implementations of that interface.
+
+65
+00:02:59,50 --> 00:03:01,80
+EAN 5 barcode,
+
+66
+00:03:01,80 --> 00:03:03,80
+EAN 8 barcode,
+
+67
+00:03:03,80 --> 00:03:07,80
+and EAN 13 barcode.
+
+68
+00:03:07,80 --> 00:03:10,40
+Now, when the product service is instantiated,
+
+69
+00:03:10,40 --> 00:03:13,60
+any one of the three code generator implementations
+
+70
+00:03:13,60 --> 00:03:17,10
+can be passed to the constructor.
+
+71
+00:03:17,10 --> 00:03:19,60
+You can see that in action in the bootstrap class.
+
+72
+00:03:19,60 --> 00:03:22,70
+Where I have created a product service three times.
+
+73
+00:03:22,70 --> 00:03:26,80
+Each time with a different code generator implementation.
+
+74
+00:03:26,80 --> 00:03:29,00
+And if I run the code, you can clearly see,
+
+75
+00:03:29,00 --> 00:03:33,60
+that a different EAN is generated for each product service.
+
+76
+00:03:33,60 --> 00:03:37,10
+This way of achieving loose coupling is perfectly acceptable
+
+77
+00:03:37,10 --> 00:03:38,50
+but, we can do better.
+
+78
+00:03:38,50 --> 00:03:41,00
+And this is where dependency injection comes in.
