@@ -16,7 +16,7 @@ badly.tested code base ကြောင့်ဖြစ်ရတဲ့ ပျက�
 
 5
 00:00:30,20 --> 00:00:36,70
-ဒီသင်တန်းတွင် ASP.NET Core C# Application တစ်ခုတွင် test.driven Development ကို လေ့ကျင့်နည်းကို သင်ကြားပေးပါမယ်။
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed nisi lacus sed viverra tellus in hac habitasse. Ut placerat orci nulla pellentesque. Amet volutpat consequat mauris nunc congue nisi. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Malesuada pellentesque elit eget gravida cum. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh sed. Euismod lacinia at quis risus sed vulputate odio ut. Volutpat est velit egestas dui id ornare. Commodo odio aenean sed adipiscing. Dignissim enim sit amet venenatis urna cursus eget. Varius quam quisque id diam vel quam elementum pulvinar etiam.
 
 6
 00:00:36,70 --> 00:00:51,20
